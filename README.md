@@ -1,7 +1,27 @@
-### Hi there 👋
+### 
 # Roberto Martínez Pereira
 
 <h2 align="center">About me</h2>
+<h1 align="center">Hi 👋, I'm Robert</h1>
+<h3 align="center">Jazz player passionate about programming and web development</h3>
+
+- 🔭 I’m currently working on **Improving all my web knowledge**
+
+- 🌱 I’m currently learning **Python,SQL**
+
+- 👯 I’m looking to collaborate on **any intellectually enriching project**
+
+- 💬 Ask me about **Python,HTML,CSS,SQL**
+
+- 📫 How to reach me **robertjazzsax@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/robertjazzsax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robertjazzsax" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 ```python
 def order(operation: tuple, products: dict[str, tuple], money: int) -> int:
@@ -29,26 +49,25 @@ def order(operation: tuple, products: dict[str, tuple], money: int) -> int:
 
 
 
-<h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
-</p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+
+
+
+
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{RobertGiantSteps}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+
+
+
+
+---
 
 
 
