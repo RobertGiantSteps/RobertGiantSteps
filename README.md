@@ -56,9 +56,6 @@ def order(operation: tuple, products: dict[str, tuple], money: int) -> int:
 
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{RobertGiantSteps}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 
 
