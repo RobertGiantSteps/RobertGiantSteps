@@ -67,8 +67,10 @@ def order(operation: tuple, products: dict[str, tuple], money: int) -> int:
 ---
 
 
+![giphy](https://github.com/RobertGiantSteps/RobertGiantSteps/assets/91851811/319a721f-ad7f-4c57-9deb-1a93a8b17a3e)![giphy-1](https://github.com/RobertGiantSteps/RobertGiantSteps/assets/91851811/c4ae74c3-2753-47f0-b09c-aeae43337563)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/l3vRg13bg9FdLYK8E" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/abstract-processing-coding-l3vRg13bg9FdLYK8E">via GIPHY</a></p>
+
+
 
 
 ---
