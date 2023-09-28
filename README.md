@@ -68,7 +68,7 @@ def order(operation: tuple, products: dict[str, tuple], money: int) -> int:
 
 
 
-<p align="center"><img src="https://thumbs.gfycat.com/PeriodicGlisteningCapeghostfrog.webp" alt="Synthwave" height="400" width="500"></p>
+
 
 
 ---
